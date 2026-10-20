@@ -34,7 +34,10 @@ This GitHub is where I document my **learning journey, projects, source code, an
 
 > *Learning, building, and improving — one line of code at a time.* 🚀
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="Animated snake moving through my GitHub contributions" src="github-snake.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Aiyman-Misbah/Aiyman-Misbah/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Aiyman-Misbah/Aiyman-Misbah/output/github-snake.svg">
+  <img alt="Animated snake moving through my GitHub contributions"
+       src="https://raw.githubusercontent.com/Aiyman-Misbah/Aiyman-Misbah/output/github-snake.svg">
 </picture>
