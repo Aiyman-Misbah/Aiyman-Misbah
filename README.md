@@ -17,11 +17,11 @@ I'm currently building my foundation in **C programming**, problem-solving, and 
 
 ## 💻 What I'm Learning
 
-- C Programming
 - Data Structures & Algorithms
-- Problem Solving
 - Computer Science Fundamentals
-- Exploring Other Programming Languages
+- Problem Solving
+- HTML and CSS
+- Exploring Web & Game Development
 
 ## 🚀 My Goal
 
@@ -32,7 +32,7 @@ This GitHub is where I document my **learning journey, projects, source code, an
 ## 📚 Currently
 
 - 🎓 Studying Computer Science & Engineering at CUET
-- 💻 Learning C & Data Structures
+- 💻 Learning HTML & CSS
 - 🧠 Exploring Computer Science
 - 🚀 Building and documenting my projects
 
